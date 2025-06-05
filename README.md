@@ -192,3 +192,5 @@ Link: [https://youtu.be/F5ZsLbBqWLU](https://youtu.be/F5ZsLbBqWLU)
 - [06:31:52 Train MindsDB Forecast Model via Jupyter](https://www.youtube.com/watch?v=F5ZsLbBqWLU&t=23512s)
 - [06:43:07 Final Clean Up](https://www.youtube.com/watch?v=F5ZsLbBqWLU&t=24187s)
 - [06:45:04 Thank you and your next challenge](https://www.youtube.com/watch?v=F5ZsLbBqWLU&t=24304s)
+
+https://www.youtube.com/watch?v=F5ZsLbBqWLU
